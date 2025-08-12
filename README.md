@@ -16,41 +16,29 @@ Thriving in Agile teams to deliver cost-effective, data-driven results.
 
 🛠️ Technical Skills
 
-
-
 Category
 Technologies
 
-
-
 Languages
-   
-
+Python • Java • SQL • Bash   
 
 Databases
 MySQL • Oracle • PostgreSQL • MongoDB • Snowflake
 
-
 Machine Learning
 Scikit-learn • TensorFlow • Keras • Azure ML • AWS SageMaker
-
 
 ETL & Engineering
 Apache Airflow • Azure Data Factory • AWS Glue • Databricks (Medallion)
 
-
 Cloud Platforms
+AWS (S3, Redshift, Glue, EMR, Lambda) • Azure (Data Factory, Synapse, Blob Storage) • GCP (BigQuery, Dataproc)
   
-
-
 Visualization
-  • Excel (Power Query, DAX)
-
+Power BI • Tableau • Excel (Power Query, DAX)
 
 Tools
 GitHub • Jira • Confluence • Alteryx
-
-
 
 📌 Featured Projects
 📊 Retail Sales Forecasting
