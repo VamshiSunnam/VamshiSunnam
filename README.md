@@ -1,83 +1,96 @@
-👋 Hi, I'm Vamshikrishna Sunnam
-Certified Data Engineer | AWS & Azure Specialist | Crafting Scalable Data Solutions
-  
-💡 Passionate about turning raw data into actionable insights with robust pipelines, cloud architectures, and advanced analytics.
+Perfect 👌 — what you’ve written is basically a **LinkedIn/portfolio "About Me"** + résumé summary.
+I’ll refine it into a **professional GitHub/LinkedIn profile README** style so it’s concise, visually appealing, and recruiter-friendly.
 
+Here’s the polished version for you:
 
-🌟 About Me
-Data Engineer with 4+ years of experience building enterprise-grade data platforms on AWS, Azure, and Snowflake. Specializing in high-volume ETL, real-time analytics, and automation to drive business efficiency.
+---
 
-⚙️ ETL Expertise: Handling 10TB+ daily with Apache Airflow, Python, SQL  
-📊 Analytics & Viz: Power BI, Tableau for real-time insights  
-🤖 Automation: Bash, APIs, Alteryx for optimized workflows  
-☁️ Cloud Focus: Solutions for finance, networks, predictive models
+# 👋 Hi, I'm **Vamshikrishna Sunnam**
 
-Thriving in Agile teams to deliver cost-effective, data-driven results.
+💼 Certified **Data Engineer** | 🌩️ **AWS & Azure Specialist** | ⚙️ **Crafting Scalable Data Solutions**
 
-🛠️ Technical Skills
+---
 
-Category
-Technologies
+## 💡 About Me
 
-Languages
-Python • Java • SQL • Bash   
+Data Engineer with **4+ years of experience** building enterprise-grade data platforms across **AWS, Azure, and Snowflake**.
+I specialize in **high-volume ETL pipelines, cloud data architectures, and real-time analytics** that transform raw data into actionable insights.
 
-Databases
+* 🚀 Scaled pipelines processing **10TB+ daily** (Airflow, Python, SQL)
+* 📊 Delivered **real-time insights** with Power BI & Tableau
+* 🤖 Automated workflows using APIs, Bash, and Alteryx
+* ☁️ Built **cost-efficient, cloud-native solutions** for finance, networks & predictive analytics
+* 🤝 Thrive in **Agile teams** delivering **data-driven results**
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages**
+Python • Java • SQL • Bash
+
+**Databases**
 MySQL • Oracle • PostgreSQL • MongoDB • Snowflake
 
-Machine Learning
+**Machine Learning**
 Scikit-learn • TensorFlow • Keras • Azure ML • AWS SageMaker
 
-ETL & Engineering
+**ETL & Data Engineering**
 Apache Airflow • Azure Data Factory • AWS Glue • Databricks (Medallion)
 
-Cloud Platforms
+**Cloud Platforms**
 AWS (S3, Redshift, Glue, EMR, Lambda) • Azure (Data Factory, Synapse, Blob Storage) • GCP (BigQuery, Dataproc)
-  
-Visualization
+
+**Visualization**
 Power BI • Tableau • Excel (Power Query, DAX)
 
-Tools
+**Tools**
 GitHub • Jira • Confluence • Alteryx
 
-📌 Featured Projects
-📊 Retail Sales Forecasting
+---
 
-Time-series models (90% accuracy) via Scikit-learn & Azure ML → 15% sales uplift via A/B tests  
-ETL pipelines with Azure Data Factory & Databricks → 20% reduced latency  
-KPI dashboards in Power BI & Tableau
+## 📌 Featured Projects
 
-🏦 Pega Marketing Integration
+### 📊 Retail Sales Forecasting
 
-Salesforce/SAP integration using Azure Data Factory & AWS Glue → 25% faster processing  
-Targeted insights via Tableau dashboards
+* 🧮 Time-series models (**90% accuracy**) → 15% sales uplift via A/B testing
+* ⚡ ETL pipelines with Azure Data Factory & Databricks → **20% reduced latency**
+* 📈 KPI dashboards in Power BI & Tableau
 
-💹 Financial Modeling
+### 🏦 Pega Marketing Integration
 
-AWS SageMaker ML models for metrics forecasting → 25% accuracy gain  
-Automated reports saving 15+ hours/week
+* 🔗 Salesforce/SAP integration using ADF & AWS Glue → **25% faster processing**
+* 📊 Tableau dashboards delivering targeted insights
 
+### 💹 Financial Modeling
 
-🎓 Education
+* 🤖 AWS SageMaker models for financial forecasting → **+25% accuracy**
+* ⏱️ Automated reporting saved **15+ hours/week**
 
-M.S. in Business Analytics – Kent State University, USA (2023–2024)  
-B.B.A. – GITAM University, India (2019–2022)
+---
 
+## 🎓 Education
 
-🏆 Certifications
+* 📘 **M.S. Business Analytics** – Kent State University, USA (2023–2024)
+* 🎓 **B.B.A.** – GITAM University, India (2019–2022)
 
-AWS Certified Data Engineer – Associate
+---
 
-Microsoft Azure Data Engineer Associate
+## 🏆 Certifications
 
-Pega Certified Data Scientist (PCDS)
+* ✅ AWS Certified Data Engineer – Associate
+* ✅ Microsoft Azure Data Engineer Associate
+* ✅ Pega Certified Data Scientist (PCDS)
+* ✅ Pega Certified System Architect (PCSA)
+* ✅ Google Cloud Platform Fundamentals
 
-Pega Certified System Architect (PCSA)
+---
 
-Google Cloud Platform Fundamentals
+## 📫 Connect With Me
 
-📫 Connect With Me
-📧 vsunnam377@gmail.com  
-  
+📧 Email: **[vsunnam377@gmail.com](mailto:vsunnam377@gmail.com)**
+🌐 [LinkedIn][(#)](https://www.linkedin.com/in/vamshisun/) 
 
-✨ Fun Fact: Beyond data pipelines, I dive into cloud innovations and open-source contributions!
+---
+
+✨ **Fun Fact**: Beyond data pipelines, I dive into **cloud innovations & open-source contributions** 🚀
