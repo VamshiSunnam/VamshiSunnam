@@ -1,10 +1,3 @@
-Perfect 👌 — what you’ve written is basically a **LinkedIn/portfolio "About Me"** + résumé summary.
-I’ll refine it into a **professional GitHub/LinkedIn profile README** style so it’s concise, visually appealing, and recruiter-friendly.
-
-Here’s the polished version for you:
-
----
-
 # 👋 Hi, I'm **Vamshikrishna Sunnam**
 
 💼 Certified **Data Engineer** | 🌩️ **AWS & Azure Specialist** | ⚙️ **Crafting Scalable Data Solutions**
