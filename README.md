@@ -1,89 +1,22 @@
-# 👋 Hi, I'm **Vamshikrishna Sunnam**
+# VAMSHI SUNNAM
 
-💼 Certified **Data Engineer** | 🌩️ **AWS & Azure Specialist** | ⚙️ **Crafting Scalable Data Solutions**
+### AI/ML Engineer
 
----
+📧 vsunnam377@gmail.com | 📱 +1 330-431-0747 | [LinkedIn](https://www.linkedin.com/in/vamshi-sunnam) | [GitHub](https://github.com/VamshiSunnam) | [Portfolio](https://vamshisunnam.github.io/portfolio/)
 
-## 💡 About Me
+## PROFESSIONAL SUMMARY
+AI/ML Engineer with 4+ years of experience in designing, developing, and deploying machine learning models and scalable data pipelines. Strong expertise in Python-based ML frameworks including TensorFlow, Scikit-learn, and PyTorch, with hands-on experience in predictive modeling, data preprocessing, and model optimization. Proven ability to work with large structured and unstructured datasets, build end-to-end ML pipelines, and deploy models on cloud platforms such as AWS and Azure. Experienced in collaborating with cross-functional teams to deliver AI-driven solutions that improve business outcomes.
 
-Data Engineer with **4+ years of experience** building enterprise-grade data platforms across **AWS, Azure, and Snowflake**.
-I specialize in **high-volume ETL pipelines, cloud data architectures, and real-time analytics** that transform raw data into actionable insights.
+## SKILLS
 
-* 🚀 Scaled pipelines processing **10TB+ daily** (Airflow, Python, SQL)
-* 📊 Delivered **real-time insights** with Power BI & Tableau
-* 🤖 Automated workflows using APIs, Bash, and Alteryx
-* ☁️ Built **cost-efficient, cloud-native solutions** for finance, networks & predictive analytics
-* 🤝 Thrive in **Agile teams** delivering **data-driven results**
+*   **Machine Learning**: TensorFlow, Keras, PyTorch, Scikit-learn, XGBoost, LightGBM, CatBoost, OpenCV, NLP, Computer Vision
+*   **Programming Languages**: Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn), SQL, Java, Scala
+*   **Cloud Platforms**: AWS (SageMaker, EC2, S3, Lambda), Azure (ML Services, Databricks), GCP (AI Platform, Vertex AI)
+*   **Data Engineering**: ETL, Apache Spark, Apache Kafka, Airflow, Databricks, Snowflake, Redshift
+*   **Tools & Technologies**: Docker, Kubernetes, Git, CI/CD, MLflow, Jupyter Notebooks, VS Code
 
----
+## FEATURED PROJECTS
 
-## 🛠️ Technical Skills
-
-**Languages**
-Python • Java • SQL • Bash
-
-**Databases**
-MySQL • Oracle • PostgreSQL • MongoDB • Snowflake
-
-**Machine Learning**
-Scikit-learn • TensorFlow • Keras • Azure ML • AWS SageMaker
-
-**ETL & Data Engineering**
-Apache Airflow • Azure Data Factory • AWS Glue • Databricks (Medallion)
-
-**Cloud Platforms**
-AWS (S3, Redshift, Glue, EMR, Lambda) • Azure (Data Factory, Synapse, Blob Storage) • GCP (BigQuery, Dataproc)
-
-**Visualization**
-Power BI • Tableau • Excel (Power Query, DAX)
-
-**Tools**
-GitHub • Jira • Confluence • Alteryx
-
----
-
-## 📌 Featured Projects
-
-### 📊 Retail Sales Forecasting
-
-* 🧮 Time-series models (**90% accuracy**) → 15% sales uplift via A/B testing
-* ⚡ ETL pipelines with Azure Data Factory & Databricks → **20% reduced latency**
-* 📈 KPI dashboards in Power BI & Tableau
-
-### 🏦 Pega Marketing Integration
-
-* 🔗 Salesforce/SAP integration using ADF & AWS Glue → **25% faster processing**
-* 📊 Tableau dashboards delivering targeted insights
-
-### 💹 Financial Modeling
-
-* 🤖 AWS SageMaker models for financial forecasting → **+25% accuracy**
-* ⏱️ Automated reporting saved **15+ hours/week**
-
----
-
-## 🎓 Education
-
-* 📘 **M.S. Business Analytics** – Kent State University, USA (2023–2024)
-* 🎓 **B.B.A.** – GITAM University, India (2019–2022)
-
----
-
-## 🏆 Certifications
-
-* ✅ AWS Certified Data Engineer – Associate
-* ✅ Microsoft Azure Data Engineer Associate
-* ✅ Pega Certified Data Scientist (PCDS)
-* ✅ Pega Certified System Architect (PCSA)
-* ✅ Google Cloud Platform Fundamentals
-
----
-
-## 📫 Connect With Me
-
-📧 Email: **[vsunnam377@gmail.com](mailto:vsunnam377@gmail.com)**
-🌐 [LinkedIn][(#)](https://www.linkedin.com/in/vamshisun/) 
-
----
-
-✨ **Fun Fact**: Beyond data pipelines, I dive into **cloud innovations & open-source contributions** 🚀
+*   **Credit Card Fraud Detection**: Developed a machine learning model to detect fraudulent transactions using advanced classification algorithms and feature engineering techniques. Implemented in Python with Scikit-learn, Pandas, and Matplotlib. [Repository](https://github.com/VamshiSunnam/Credit-Card-Fraud-Detection)
+*   **Customer Churn Prediction**: Built a robust predictive model to identify customers likely to churn through comprehensive data preprocessing, exploratory data analysis (EDA), and rigorous model evaluation. Utilized Python with TensorFlow, Keras, and Seaborn. [Repository](https://github.com/VamshiSunnam/Customer-Churn-Prediction)
+*   **Big Data Analysis with PySpark**: Engineered a scalable data processing pipeline for large-scale data analysis, demonstrating expertise in distributed computing and big data handling. Implemented the solution using PySpark, SQL, and Python. [Repository](https://github.com/VamshiSunnam/Big-Data-Analysis-with-PySpark)
